@@ -1,0 +1,5 @@
+redmine-plugin-better-gantt-chart (0.6.5.1-precise0) precise; urgency=low
+
+  * Packaging for Ubuntu precise
+
+ -- Enrico Weigelt, metux IT service <weigelt@metux.de>  Wed, 07 Sep 2012 00:12:13 +0200
